@@ -10,7 +10,8 @@ namespace EmilPro
     {
         public void Create()
         {
-            Console.WriteLine("Its a car1 ");
+            Console.WriteLine("Its a first car ");
+            Console.WriteLine("Its a car2 ");
             Console.WriteLine("Its a car2 ");
         }
     }
